@@ -20,7 +20,9 @@
   <img src="preview.png" alt="JajoDex Studio Preview" width="100%" />
 </p>
 
----
+## Note
+- Because the installer is not signed with a paid Code Signing Certificate, Windows SmartScreen may show an "Unknown publisher" warning. Click More info → Run anyway to proceed.
+
 
 <!-- სქრინშოტი რომ დაამატო, ატვირთე სურათი რეპოში (მაგ: preview.png) და ჩასვი ქვემოთ -->
 <!-- ![JajoDex Studio Preview](Assets/preview.png) -->
