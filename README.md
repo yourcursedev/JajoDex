@@ -15,7 +15,7 @@
 *Designed for Windowed & Borderless Windowed Fullscreen games — zero injection, sub-pixel precision, animated crosshairs, and an in-game radial quick-switch wheel.*
 
 </div>
-
+![JajoDex Studio Preview](preview.png)
 ---
 
 <!-- სქრინშოტი რომ დაამატო, ატვირთე სურათი რეპოში (მაგ: preview.png) და ჩასვი ქვემოთ -->
